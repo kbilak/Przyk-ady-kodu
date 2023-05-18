@@ -1,1 +1,1 @@
-# Przyk-ady-kodu
+W każdym folderze osobny projekt i opis
